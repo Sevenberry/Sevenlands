@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/blueberrypie.mp3-29ad608093abc8e56429810b489fe107.mp3str"
+
+[deps]
+
+source_file="res://music/blueberrypie.mp3"
+dest_files=[ "res://.import/blueberrypie.mp3-29ad608093abc8e56429810b489fe107.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

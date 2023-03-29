@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/dreamcandy.mp3-7e2555cf6c60c20e2b4ea98d91a103d8.mp3str"
+
+[deps]
+
+source_file="res://music/dreamcandy.mp3"
+dest_files=[ "res://.import/dreamcandy.mp3-7e2555cf6c60c20e2b4ea98d91a103d8.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

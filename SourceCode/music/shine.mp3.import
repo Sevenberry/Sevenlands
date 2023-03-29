@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/shine.mp3-7ea624b3304b7c62cfc7d4f49403b069.mp3str"
+
+[deps]
+
+source_file="res://music/shine.mp3"
+dest_files=[ "res://.import/shine.mp3-7ea624b3304b7c62cfc7d4f49403b069.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
